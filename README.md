@@ -42,6 +42,7 @@ This project simulates a real-world HR tool that:
    http://127.0.0.1:5000/
 
 🧠 Model Pipeline
+
 Step 1: Clean text (remove links, special characters, etc.)
 
 Step 2: TF-IDF vectorization
@@ -53,6 +54,7 @@ Step 4: Label encode the categories
 Step 5: Predict from user input (resume)
 
 ✅ Features
+
 Predicts job category from raw resume text
 
 Preprocessing and cleaning handled automatically
@@ -64,6 +66,7 @@ Accuracy > 98% with Random Forest & Deep Learning
 Easy to customize or extend
 
 💼 Use Case
+
 This project demonstrates real-world AI in HR automation and is perfect for showcasing:
 
 NLP skills
@@ -75,7 +78,11 @@ Full ML pipeline
 Web development with Flask
 
 📬 Contact
+
 Made with ❤️ by Himanshu Jagga
+
 LinkedIn - https://www.linkedin.com/in/himanshu-jagga-b08ab6170/
+
 GitHub - https://github.com/HimanshuJagga
+
 Email - himanshujagga97@gmail.com
